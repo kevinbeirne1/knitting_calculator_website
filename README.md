@@ -1,2 +1,2 @@
-# django_tutorial
-Django tutorial from the site documentation
+# Knitting Calculator Website
+Website created using Django to calculate knitting increases & decreases
